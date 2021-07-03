@@ -1,5 +1,5 @@
 # perfume-wholesale-company-database
-A relational database project.
+
 Higher Diploma in Computing, Software Development, Introduction to Databases module. A relational database project created as an end-of-semester exam. 
 The main objective of this project is the development of a database for a perfume wholesale company.
 The conceptual and logical design phases required the identification of the entities and their relationships, attributes, primary and foreign keys.
